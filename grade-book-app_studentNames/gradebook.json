@@ -1,0 +1,30 @@
+{
+    "students": [
+        {
+            "email": "l.icyeza@alustudent.com",
+            "names": "Lorita Sesame Icyeza",
+            "courses_registered": [
+                "linux"
+            ],
+            "GPA": 4.0
+        },
+        {
+            "email": "l.icyeza@alustudent.com",
+            "names": "Lorita Sesame Icyeza",
+            "courses_registered": [],
+            "GPA": 0.0
+        }
+    ],
+    "courses": [
+        {
+            "name": "linux",
+            "trimester": "1",
+            "credits": 20
+        },
+        {
+            "name": "python",
+            "trimester": "1",
+            "credits": 20
+        }
+    ]
+}
